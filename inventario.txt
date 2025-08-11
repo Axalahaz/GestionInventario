@@ -1,0 +1,29 @@
+Categoria: GENERAL
+ID: GEN000 | Producto: Cable USB-C | Marca: Generic | Precio: 1500 | Stock: 100 | Extra: Compatibilidad universal.
+ID: GEN001 | Producto: Bateria Ext. | Marca: PowerBank | Precio: 8500 | Stock: 50 | Extra: Diseño compacto.
+ID: GEN002 | Producto: Mouse Inalam. | Marca: ClickPro | Precio: 3200 | Stock: 80 | Extra: Conexion rapida.
+ID: GEN003 | Producto: Adapt. HDMI | Marca: Adaptics | Precio: 2000 | Stock: 60 | Extra: Resolucion Full HD.
+---
+Categoria: COMPUTACION
+ID: COM000 | Producto: Proc. Intel i5 | Marca: Intel | Precio: 120000 | Stock: 15 | Extra: Ultima generacion.
+ID: COM001 | Producto: RAM 16GB | Marca: Kingston | Precio: 25000 | Stock: 20 | Extra: Optimizada para gaming.
+ID: COM002 | Producto: Disco SSD | Marca: Samsung | Precio: 38000 | Stock: 25 | Extra: Velocidades ultrarapidas.
+ID: COM003 | Producto: Monitor 24'' | Marca: LG | Precio: 75000 | Stock: 3 | Extra: Pantalla FHD.
+---
+Categoria: SMARTPHONES
+ID: SMA000 | Producto: Galaxy S22 | Marca: Samsung | Precio: 380000 | Stock: 10 | Extra: Pantalla AMOLED.
+ID: SMA001 | Producto: iPhone 14 | Marca: Apple | Precio: 900000 | Stock: 5 | Extra: Diseno premium.
+ID: SMA002 | Producto: Cargador 25W | Marca: Samsung | Precio: 8500 | Stock: 50 | Extra: Carga rapida.
+ID: SMA003 | Producto: Auric. Xiaomi | Marca: Xiaomi | Precio: 22000 | Stock: 40 | Extra: Bateria larga.
+---
+Categoria: AUDIO
+ID: AUD000 | Producto: Parlante BT | Marca: JBL | Precio: 35000 | Stock: 15 | Extra: Sonido potente.
+ID: AUD001 | Producto: Auric. Over | Marca: Sony | Precio: 75000 | Stock: 10 | Extra: Cancelacion ruido.
+ID: AUD002 | Producto: Microfono USB | Marca: Blue Yeti | Precio: 50000 | Stock: 20 | Extra: Calidad pro.
+ID: AUD003 | Producto: Barra Sonido | Marca: Samsung | Precio: 120000 | Stock: 8 | Extra: Sonido envolvente.
+---
+Categoria: ACCESORIOS
+ID: ACC000 | Producto: Soporte Note. | Marca: Generic | Precio: 12000 | Stock: 50 | Extra: Ajustable y resistente.
+ID: ACC001 | Producto: Cable HDMI | Marca: Generic | Precio: 3000 | Stock: 100 | Extra: Ideal para 4K.
+ID: ACC002 | Producto: Mochila Lap. | Marca: TechBag | Precio: 15000 | Stock: 30 | Extra: Proteccion acolchada.
+ID: ACC003 | Producto: Base Refri. | Marca: CoolPad | Precio: 8000 | Stock: 25 | Extra: Ventiladores silenciosos.
